@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&height=60&lines=Om+Kamboj;" alt="name banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5C6B73&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);DSA+Enthusiast+in+Java" alt="typing banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:38B2AC&height=200&section=header&text=Om%20Kamboj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20(MERN)%20%7C%20DSA%20Enthusiast%20in%20Java&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
 
