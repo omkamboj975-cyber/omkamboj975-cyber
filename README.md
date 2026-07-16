@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Om Kamboj</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer (MERN) | DSA in Java</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);DSA+Enthusiast+in+Java" alt="typing banner" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/om-kamboj09" target="_blank">
@@ -8,10 +11,19 @@
   <a href="https://leetcode.com/u/Kamboj_om/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/omkamb22be/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
+
+<!--
+Typing banner note: this uses readme-typing-svg.demolab.com (same maintainer
+family as the streak-stats service, DenverCoder1 — a separately hosted,
+generally reliable service). It rotates through the three lines you had as
+a static subtitle before. If it ever goes blank, the fix is the same pattern
+as the other broken cards earlier: swap the domain for a maintained fork, or
+just revert to the plain <h3> subtitle.
+-->
 
 ---
 
@@ -132,7 +144,7 @@ around for that day.
   <a href="https://leetcode.com/u/Kamboj_om/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://github.com/omkamboj975-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:omkamboj09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
