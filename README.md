@@ -95,43 +95,24 @@ Example format once you add real repos:
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/omkamboj975-cyber" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Full%20Activity%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-**LeetCode Stats**
+### LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kamboj_om?theme=dark&font=baloo2&ext=heatmap" />
 </p>
 
 <!--
-Changes made here:
-
-1) Removed the GitHub stats card and top-languages card. Both were pulling
-   from github-stats-extended.vercel.app, which — like the original
-   github-readme-stats — is a public instance with no access to your private
-   repos. Since your work lives almost entirely in private repos, those cards
-   were showing near-empty numbers (0 stars, 9 commits, "no languages data")
-   that don't represent your actual activity at all. Rather than keep a card
-   that's misleadingly close to empty, it's removed.
-
-2) Removed the streak card for the same root cause. Your real contribution
-   graph shows 112 contributions in the last year with a real active streak,
-   but streak-stats.demolab.com only sees public commits, so it showed
-   "2-day streak" — a huge understatement, not a bug you can fix from the
-   README side. There is no reliable zero-setup way to pull an accurate
-   private streak count; the only real fix is self-hosting the streak-stats
-   service with your own GitHub token (https://github.com/DenverCoder1/github-readme-streak-stats#installation).
-   Until/unless you want to do that, a card that's off by 50x is worse than
-   no card — so in its place there's now a plain "View Full Activity on
-   GitHub" badge that links straight to your real, accurate profile graph.
-
-3) LeetCode stats stay, since that data is genuinely public and accurate.
+Removed the "GitHub Stats" section entirely rather than fill it with
+placeholder/empty data:
+  - No public repos yet, so a GitHub stats/top-langs card would show 0s.
+  - No achievements unlocked yet, so achievement badges would be blank.
+  - The streak/contribution cards can't see private repos anyway (public
+    services have no access), so they'd undercount regardless.
+The GitHub profile link now lives in Connect with Me instead of pretending
+to be a stats section. Once there's public repo activity or an unlocked
+achievement, this is the natural place to bring a GitHub section back with
+real numbers — the achievement-badge template from earlier is worth keeping
+around for that day.
 -->
 
 **Highlights**
@@ -150,5 +131,8 @@ Changes made here:
   </a>
   <a href="https://leetcode.com/u/Kamboj_om/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/omkamboj975-cyber" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
