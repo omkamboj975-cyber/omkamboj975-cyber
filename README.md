@@ -71,12 +71,12 @@ _Projects in progress — this section will be updated as repositories are added
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omkamboj975-cyber&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omkamboj975-cyber&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkamboj975-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omkamboj975-cyber&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=omkamboj975-cyber&count_private=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
