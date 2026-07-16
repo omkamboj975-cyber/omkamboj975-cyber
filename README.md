@@ -102,13 +102,42 @@ Example format once you add real repos:
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omkamboj975-cyber&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omkamboj975-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkamboj975-cyber&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=omkamboj975-cyber&count_private=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omkamboj975-cyber&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
+**LeetCode Stats**
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Kamboj_om?theme=dark&font=baloo2&ext=heatmap" />
+</p>
+
+<!--
+Why these were changed:
+The old GitHub stats/streak cards used count_private=true, but the public
+github-readme-stats.vercel.app service has no access to private repos at all —
+that flag is silently ignored, which is what caused the wrong numbers. The
+only real fix for that is self-hosting your own instance with a personal
+token, which isn't something to set up inside a README.
+
+Instead, this version swaps in two cards that pull real, correct data without
+any hosting setup:
+  - GitHub Trophy card: built entirely from public activity (stars, PRs,
+    issues, repos) so its numbers are always accurate, no private-repo gap.
+  - LeetCode stats card: pulls live from your public LeetCode profile
+    (problems solved, ranking, heatmap) — a more accurate reflection of your
+    actual DSA practice than a GitHub commit graph would be anyway, since your
+    coding work is mostly in private repos.
+-->
+
+**Highlights**
+
+- Most of my current project work lives in private repositories, so GitHub's own commit graph understates it — the LeetCode card above is the more accurate day-to-day signal
+- Enabled "Include private contributions" on my GitHub profile so my activity graph on github.com/omkamboj975-cyber reflects real work
 
 ---
 
