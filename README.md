@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkamboj975-cyber&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### About Me
@@ -102,12 +98,9 @@ Example format once you add real repos:
 ### GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=omkamboj975-cyber&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=omkamboj975-cyber&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=omkamboj975-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/omkamboj975-cyber" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Full%20Activity%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 **LeetCode Stats**
@@ -117,28 +110,35 @@ Example format once you add real repos:
 </p>
 
 <!--
-Fixes in this version:
-1) The trophy card (github-profile-trophy.vercel.app) has been removed — its
-   public instance is known to be unreliable, getting paused/rate-limited
-   (see project issues #406, #439), which is what was showing as the one
-   broken image.
-2) Added a GitHub streak card instead (streak-stats.demolab.com by
-   DenverCoder1) — shows current streak, longest streak, and total
-   contributions, which is the "days streak" you asked for. It's a
-   separately maintained service from github-readme-stats, so it isn't
-   affected by that project's instability.
-3) Stats/top-langs still use github-stats-extended.vercel.app (the healthy
-   drop-in fork of github-readme-stats) since the original
-   github-readme-stats.vercel.app domain is currently broken.
-4) Alignment reverted to the original layout: plain ### section headers
-   (left-aligned, matching normal README convention) with only the badge/
-   image rows centered — the same structure as your first version.
+Changes made here:
+
+1) Removed the GitHub stats card and top-languages card. Both were pulling
+   from github-stats-extended.vercel.app, which — like the original
+   github-readme-stats — is a public instance with no access to your private
+   repos. Since your work lives almost entirely in private repos, those cards
+   were showing near-empty numbers (0 stars, 9 commits, "no languages data")
+   that don't represent your actual activity at all. Rather than keep a card
+   that's misleadingly close to empty, it's removed.
+
+2) Removed the streak card for the same root cause. Your real contribution
+   graph shows 112 contributions in the last year with a real active streak,
+   but streak-stats.demolab.com only sees public commits, so it showed
+   "2-day streak" — a huge understatement, not a bug you can fix from the
+   README side. There is no reliable zero-setup way to pull an accurate
+   private streak count; the only real fix is self-hosting the streak-stats
+   service with your own GitHub token (https://github.com/DenverCoder1/github-readme-streak-stats#installation).
+   Until/unless you want to do that, a card that's off by 50x is worse than
+   no card — so in its place there's now a plain "View Full Activity on
+   GitHub" badge that links straight to your real, accurate profile graph.
+
+3) LeetCode stats stay, since that data is genuinely public and accurate.
 -->
 
 **Highlights**
 
-- Most of my current project work lives in private repositories, so GitHub's own commit graph understates it — the LeetCode card above is the more accurate day-to-day signal
-- Enabled "Include private contributions" on my GitHub profile so my activity graph on github.com/omkamboj975-cyber reflects real work
+- Solved 41 problems on LeetCode (15 Easy, 24 Medium, 2 Hard) — steadily working up through Medium-difficulty problems as the next step
+- Logged 112 contributions on GitHub in the past year, with most of that work sitting in private repositories rather than public ones
+- Recently picked up a consistent daily coding habit — most of that 112-contribution graph is packed into the last couple of weeks
 
 ---
 
