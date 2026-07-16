@@ -1,33 +1,42 @@
-<h1 align="center">Hi there, I'm Om Kamboj</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);DSA+Enthusiast+in+Java" alt="typing banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:38B2AC&height=200&section=header&text=Om%20Kamboj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/om-kamboj09" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Kamboj_om/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/omkamb22be/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer+(MERN);DSA+Enthusiast+in+Java" alt="typing banner" />
+
+<br/>
+
+<a href="https://linkedin.com/in/om-kamboj09" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Kamboj_om/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/omkamb22be/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+<a href="mailto:omkamboj09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 <!--
-Typing banner note: this uses readme-typing-svg.demolab.com (same maintainer
-family as the streak-stats service, DenverCoder1 — a separately hosted,
-generally reliable service). It rotates through the three lines you had as
-a static subtitle before. If it ever goes blank, the fix is the same pattern
-as the other broken cards earlier: swap the domain for a maintained fork, or
-just revert to the plain <h3> subtitle.
+Animation & UI upgrade notes (kept for future maintenance):
+- Header banner uses capsule-render (vercel-hosted, MIT licensed, widely used
+  across GitHub profile READMEs — same reliability tier as the typing SVG
+  and leetcard services already in use here).
+- Section dividers below use the same capsule-render service in "rect" mode
+  as lightweight animated separators instead of plain "---" rules.
+- Kept readme-typing-svg and leetcard exactly as before since both were
+  confirmed working.
+- Removed nothing that had real data; only replaced static rules/plain text
+  with animated equivalents from already-trusted maintainers.
 -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:38B2AC&height=3&section=header" width="100%"/>
 
-### About Me
+## About Me
 
 - B.E. CSE student at **Chitkara University** (3rd year, graduating 2028)
 - Building projects with the **MERN stack**
@@ -35,9 +44,9 @@ just revert to the plain <h3> subtitle.
 - Currently learning **Next.js**, **System Design**, and **SQL**
 - Preparing for **SDE internships and placements**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:38B2AC&height=3&section=header" width="100%"/>
 
-### Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -81,17 +90,17 @@ just revert to the plain <h3> subtitle.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:38B2AC&height=3&section=header" width="100%"/>
 
-### Current Focus
+## Current Focus
 
 - Solving DSA problems consistently in Java on **LeetCode** & **GeeksforGeeks**
 - Building full-stack projects using the **MERN stack**
 - Learning **Next.js**, **System Design**, and **SQL**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:38B2AC&height=3&section=header" width="100%"/>
 
-### Featured Projects
+## Featured Projects
 
 > Projects in progress — this section will be updated as repositories are added.
 
@@ -105,9 +114,9 @@ Example format once you add real repos:
 </p>
 -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:38B2AC&height=3&section=header" width="100%"/>
 
-### LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kamboj_om?theme=dark&font=baloo2&ext=heatmap" />
@@ -133,9 +142,9 @@ around for that day.
 - Logged 112 contributions on GitHub in the past year, with most of that work sitting in private repositories rather than public ones
 - Recently picked up a consistent daily coding habit — most of that 112-contribution graph is packed into the last couple of weeks
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:38B2AC&height=3&section=header" width="100%"/>
 
-### Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/om-kamboj09" target="_blank">
@@ -144,7 +153,12 @@ around for that day.
   <a href="https://leetcode.com/u/Kamboj_om/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://www.geeksforgeeks.org/profile/omkamb22be/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
   <a href="mailto:omkamboj09@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:38B2AC&height=100&section=footer" width="100%"/>
